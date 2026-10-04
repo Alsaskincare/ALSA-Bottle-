@@ -1,0 +1,4 @@
+- [x] Recreate the GRND scroll showcase with the uploaded bottle.
+- [x] Ensure the preview is visible and verify its desktop and phone states.
+- [x] Make the uploaded 3D bottle obvious as soon as the page opens.
+- [x] Remove the bottle from the “GRND doesn't shake. It performs.” section and match the reference bottle direction in the product section.
